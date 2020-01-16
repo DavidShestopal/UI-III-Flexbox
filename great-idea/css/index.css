@@ -183,12 +183,15 @@ header {
 .header-text {
   font-size: 92px;
   width: 320px;
+  margin: auto;
+  text-align: center;
 }
 .button1 {
   background-color: white;
   border: 1px solid black;
   font-size: 20px;
   padding: 6px 50px;
+  margin-left: 58px;
 }
 hr {
   width: 100%;
