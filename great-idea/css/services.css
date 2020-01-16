@@ -1,0 +1,10 @@
+.navigation a {
+  color: grey;
+  text-decoration: none;
+  margin-right: 60px;
+}
+
+.services-header-img {
+  display: flex;
+  padding: 27px 0;
+}
